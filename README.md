@@ -41,7 +41,7 @@ text
 
 1. Clonez ce dépôt ou téléchargez le script `compress_pdf.sh`.
 
-git clone https://github.com/ledockter/compress_pdfs.sh.git
+git clone https://github.com/ledockter/compress_pdf.sh.git
 cd compress_pdf.sh
 
 text

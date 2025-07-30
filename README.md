@@ -39,16 +39,16 @@ text
 
 ## Installation
 
-1. Clonez ce dépôt ou téléchargez le script `compress_pdfs.sh`.
+1. Clonez ce dépôt ou téléchargez le script `compress_pdf.sh`.
 
 git clone https://github.com/ledockter/compress_pdfs.sh.git
-cd nom-du-repo
+cd compress_pdf.sh
 
 text
 
 2. Rendez le script exécutable :
 
-chmod +x compress_pdfs.sh
+chmod +x compress_pdf.sh
 
 text
 
@@ -60,7 +60,7 @@ text
 
 2. Lancez le script depuis un terminal :
 
-./compress_pdfs.sh
+./compress_pdf.sh
 
 text
 

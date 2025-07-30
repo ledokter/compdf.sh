@@ -33,8 +33,6 @@ Pour installer Ghostscript sous Debian/Ubuntu :
 
 sudo apt update && sudo apt install ghostscript
 
-text
-
 ---
 
 ## Installation
@@ -44,13 +42,11 @@ text
 git clone https://github.com/ledockter/compress_pdf.sh.git
 cd compress_pdf.sh
 
-text
 
 2. Rendez le script exécutable :
 
 chmod +x compress_pdf.sh
 
-text
 
 ---
 
@@ -62,7 +58,6 @@ text
 
 ./compress_pdf.sh
 
-text
 
 3. Les PDFs compressés seront générés dans le dossier `compressed_output` avec le suffixe `-opt.pdf`.
 
@@ -76,7 +71,6 @@ Compression de : rapport-2025.pdf -> compressed_output/rapport-2025-opt.pdf
 Compression réussie : compressed_output/rapport-2025-opt.pdf
 Traitement terminé.
 
-text
 
 ---
 
